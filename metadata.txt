@@ -1,0 +1,6 @@
+comodities--id--int--notnull#lastname--varchar255--notnull#age--int#PRIMARY--KEY--id#
+halifax--id--int--notnull#lastname--varchar255--notnull#age--int#PRIMARY--KEY--id#
+sid--id--int--notnull#lastname--varchar255--notnull#firstname--varchar255#age--int#primary--key--id#
+purchase--no--int--notnull#lastname--varchar255--notnull#firstname--varchar255#age--int#primary--key--no#
+dalhousie--id--int--notnull#name--varchar255--notnull#location--varchar255#year--int#primary--key--id#
+persons--id--int--notnull#lastname--varchar255--notnull#firstname--varchar255#age--int#primary--key--id#
